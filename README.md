@@ -53,7 +53,7 @@ Install from **Arduino Library Manager**.
 ## 🧠 Notes
 - If LCD shows garbage, adjust contrast potentiometer
 - If LCD not working, try I2C address `0x3F`
-
+https://drive.google.com/file/d/1X6Rqn4u2zr2BErxup696JFED1ZwAccbT/view?usp=sharing
 ---
 
 ## 👨‍💻 Author
