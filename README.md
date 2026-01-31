@@ -55,7 +55,7 @@ Install from **Arduino Library Manager**.
 - If LCD not working, try I2C address `0x3F`
 - 
   ## video on temarature and humidity on lcd display
-https://drive.google.com/file/d/1X6Rqn4u2zr2BErxup696JFED1ZwAccbT/view?usp=sharing
+https://youtu.be/LO3xe62ii6U
 ---
 
 ## 👨‍💻 Author
